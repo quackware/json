@@ -1,5 +1,5 @@
 {
-  "name": "json",
-  "description": "$QUACKWRE_PACKAGE_DESCRIPTION",
+  "name": "@quackware/json",
+  "description": "Core JSON types and functionality",
   "version": "0.0.1"
 }
