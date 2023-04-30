@@ -1,7 +1,3 @@
-<h1 align="center">
-  <a href="https://github.com/quackware/json">
-    <code>@quackware/json</code>
-  </a>
-</h1>
+# @quackware/json
 
-<p align="center">Core JSON types and functionality</p>
+Core JSON types and functionality
